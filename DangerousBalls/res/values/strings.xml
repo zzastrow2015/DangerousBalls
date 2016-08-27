@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_animation">Animation</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_start_menu">StartMenu</string>
+    <string name="title_activity_view_changer">ViewChanger</string>
+    <string name="title_activity_view_start_menu">ViewStartMenu</string>
+    <string name="title_activity_view_animation">ViewAnimation</string>
+
+</resources>
